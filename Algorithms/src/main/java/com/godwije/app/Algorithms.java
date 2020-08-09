@@ -1,7 +1,7 @@
 package com.godwije.app;
 
 import com.godwije.algos.BasicStringSearch;
-
+// new comment
 public class Algorithms {
     public static void main(String[] args) {
         String test = "I am started a new project";
